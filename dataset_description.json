@@ -1,0 +1,22 @@
+{
+    "Name": "Multimodal EEG and fNIRS Biosignal Acquisition during Motor Imagery Tasks in Patients with Orthopedic Impairment",
+    "BIDSVersion": "1.0.2",
+    "DatasetType": "raw",
+    "License": "BrainLab",
+    "Authors": [
+        "Seho Lee",
+        "Hee Ra Jung",
+        "In-Nea Wang",
+        "Min-Kyung Jung",
+        "Hakseung Kim",
+        "Dong-Joo Kim"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "",
+        "",
+        ""
+    ],
+    "DatasetDOI": ""
+}

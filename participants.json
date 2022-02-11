@@ -1,0 +1,28 @@
+{
+    "participant_id": {
+        "LongName": "Participant identification",
+        "Description": "Participant identification"
+    },
+    "age": {
+        "Description": "age of the participant",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "sex of the participant as reported by the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "Years Since Diagnosis": {
+        "Description": "Years since diagnosis of the participant as reported by the participant",
+        "Units": "years"
+    },
+    "Hand Dominance": {
+        "Description": "handed domainance of the participant as reported by the participant",
+        "Levels": {
+            "L": "left",
+            "R": "right"
+        }
+    }
+}
