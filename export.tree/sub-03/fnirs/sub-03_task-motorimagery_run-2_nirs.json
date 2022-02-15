@@ -1,0 +1,15 @@
+{
+    "TaskName": "Motor Imagery",
+    "TaskDescription": "The experiment was designed to quantitatively acquire EEG and fNIRS data related to four right-upper limb movements for MI tasks: reaching, grasping, lifting, and twisting. Decoding different tasks of the same limb could increase the degree of freedom in BCI system control compared to typical BCIs based on somatosensory rhythm, which only detects spatially well-separated patterns, such as left and right hands",
+    
+    "InstitutionName": "Korea University",
+    "NIRSSamplingFrequency": 7.8125
+    "NIRSManufacturersModelName": "NIRScout",
+    "NIRSCapManufacturersModelName": "BrainVision actiCAP slim",
+    "NIRSSourceChannelCount": 8,
+    "NIRSDetectorChannelCount": 4,
+    "PowerLineFrequency": 60,
+    "RecordingType": "continuous",
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a"
+}
