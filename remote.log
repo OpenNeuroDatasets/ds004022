@@ -1,0 +1,1 @@
+815e6cb7-a5bf-415e-a2f8-4485f7073d34 autoenable=true bucket=openneuro.org datacenter=US encryption=none exporttree=yes fileprefix=ds004022/ host=s3.amazonaws.com name=s3-PUBLIC partsize=1GiB port=80 public=yes publicurl=https://s3.amazonaws.com/openneuro.org storageclass=STANDARD type=S3 versioning=yes timestamp=1644900731.741359663s
